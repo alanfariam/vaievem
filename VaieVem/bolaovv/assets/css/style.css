@@ -1,0 +1,9 @@
+body{
+	background-color: #FFFFFF;
+}
+
+.row [class^=col-], .row .col {
+	--background-color: #DDD;
+	--border:1px solid #CCC;
+
+}

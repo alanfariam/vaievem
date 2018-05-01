@@ -1,0 +1,111 @@
+body{
+	--background-color: #005D00;
+}
+
+.logo {
+	float: center;
+	text-align:center;
+	background-color: #FFFFFF;
+}
+
+/*body{
+	margin: 0;
+	font-family: arial;
+	font-size: 12px;
+}
+
+.topo{
+	height: 30px;
+	background-color: #333333;
+}
+.topoint{
+	width: 100%;
+	max-width: 1040px;
+	height: 30px;
+	margin: auto;
+}
+
+.topoleft{
+	width: 50%;
+	height: 30px;
+	float: left;
+}
+
+.toporight{
+	width: 50%;
+	height: 28px;
+	float: right;
+	text-align: right;
+	margin-top: 2px;
+}
+
+.topoleft ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	}
+
+.topoleft li {
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 8px;
+	margin-right: 8px;
+
+}
+
+.topoleft li a {
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+
+.topoleft li .ativo {
+	color: blue;
+}
+
+.topobusca {
+	width: 110;
+	height: 26px;
+	outline: 0;
+}
+
+.toporight a{
+	float:right;
+}
+
+.toporight input {
+	float:right;
+}
+
+.toporight img {
+	margin-right: 4px;
+}
+
+
+.topo2{
+	height: 95px;
+	background-color: #000000;
+}
+.topo2int{
+	width: 100%;
+	max-width: 1040px;
+	height: 95px;
+	margin: auto;
+}
+
+.logo {
+	width: 230px;
+	height: 985px;
+	float: left;
+	margin-top: 10px;
+}
+
+.topo2 .banner {
+	width: 650px;
+	height: 80px;
+	float: right;
+	margin-top: 7px;
+}
+
+*/
